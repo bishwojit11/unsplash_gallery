@@ -1,0 +1,13 @@
+.search_button{
+    padding: 0.7% 8%;
+    border-radius: 20px;
+}
+.submit_button{
+    cursor: pointer;
+    margin-left: 10px;
+    padding: 0.6% 20px;
+    border-radius: 20px;
+    background-color: antiquewhite;
+    font-weight: bold;
+    font-size: large;
+}
